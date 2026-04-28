@@ -1,0 +1,321 @@
+year_month,job_title,postings,avg_salary
+2024-01,AI Architect,49,99755.0
+2024-01,Robotics Engineer,46,121288.5
+2024-01,Research Scientist,44,99618.0
+2024-01,Principal Data Scientist,43,97247.0
+2024-01,NLP Engineer,52,107725.5
+2024-01,Machine Learning Researcher,46,101480.0
+2024-01,ML Ops Engineer,35,118243.0
+2024-01,Head of AI,43,96353.0
+2024-01,Deep Learning Engineer,50,88547.5
+2024-01,Data Scientist,53,113357.0
+2024-01,Machine Learning Engineer,48,107480.0
+2024-01,Data Analyst,41,101466.0
+2024-01,Data Engineer,42,115206.5
+2024-01,AI Product Manager,58,101494.5
+2024-01,AI Research Scientist,48,107033.0
+2024-01,AI Software Engineer,60,86659.5
+2024-01,AI Consultant,35,91332.0
+2024-01,Autonomous Systems Engineer,53,85289.0
+2024-01,Computer Vision Engineer,54,85667.5
+2024-01,AI Specialist,53,112395.0
+2024-02,Deep Learning Engineer,39,82921.0
+2024-02,Robotics Engineer,38,90356.5
+2024-02,Research Scientist,41,84579.0
+2024-02,Principal Data Scientist,48,107406.0
+2024-02,NLP Engineer,59,110479.0
+2024-02,Machine Learning Researcher,61,107527.0
+2024-02,ML Ops Engineer,45,89670.0
+2024-02,Head of AI,44,94245.5
+2024-02,Data Scientist,40,87990.5
+2024-02,Machine Learning Engineer,45,93366.0
+2024-02,Data Analyst,44,83878.5
+2024-02,AI Consultant,43,108388.0
+2024-02,AI Product Manager,52,103919.0
+2024-02,AI Research Scientist,43,107022.0
+2024-02,AI Software Engineer,54,94763.5
+2024-02,AI Architect,45,89565.0
+2024-02,AI Specialist,52,95858.5
+2024-02,Autonomous Systems Engineer,40,82704.5
+2024-02,Computer Vision Engineer,44,111827.5
+2024-02,Data Engineer,50,104157.0
+2024-03,Data Scientist,40,95661.5
+2024-03,Research Scientist,59,108250.0
+2024-03,Principal Data Scientist,43,101454.0
+2024-03,NLP Engineer,47,98768.0
+2024-03,Machine Learning Researcher,45,96605.0
+2024-03,Machine Learning Engineer,40,120520.5
+2024-03,ML Ops Engineer,43,137878.0
+2024-03,Head of AI,46,94685.0
+2024-03,Deep Learning Engineer,42,105244.0
+2024-03,Robotics Engineer,47,92078.0
+2024-03,Data Engineer,56,92929.0
+2024-03,Computer Vision Engineer,50,92999.5
+2024-03,Autonomous Systems Engineer,50,87465.5
+2024-03,AI Specialist,34,109033.0
+2024-03,AI Software Engineer,44,89881.0
+2024-03,AI Research Scientist,42,100583.0
+2024-03,AI Product Manager,52,86823.5
+2024-03,AI Consultant,47,102382.0
+2024-03,AI Architect,50,89220.0
+2024-03,Data Analyst,55,97546.0
+2024-04,Head of AI,62,107611.5
+2024-04,ML Ops Engineer,45,122200.0
+2024-04,Machine Learning Researcher,59,82855.0
+2024-04,Deep Learning Engineer,55,82178.0
+2024-04,Principal Data Scientist,52,89111.5
+2024-04,Research Scientist,57,104307.0
+2024-04,Robotics Engineer,53,97652.0
+2024-04,NLP Engineer,48,96250.0
+2024-04,Data Scientist,41,118260.0
+2024-04,Machine Learning Engineer,51,99872.0
+2024-04,Data Analyst,49,92409.0
+2024-04,AI Architect,50,117544.0
+2024-04,AI Consultant,39,97800.0
+2024-04,AI Product Manager,40,95986.5
+2024-04,AI Research Scientist,47,100789.0
+2024-04,Data Engineer,48,106132.5
+2024-04,AI Specialist,34,98633.5
+2024-04,Autonomous Systems Engineer,46,98474.0
+2024-04,Computer Vision Engineer,47,85898.0
+2024-04,AI Software Engineer,62,100192.5
+2024-05,Head of AI,44,110784.0
+2024-05,Robotics Engineer,42,95854.0
+2024-05,Research Scientist,53,93777.0
+2024-05,Principal Data Scientist,51,103182.0
+2024-05,NLP Engineer,52,114933.0
+2024-05,Machine Learning Researcher,38,95071.0
+2024-05,Machine Learning Engineer,58,92379.0
+2024-05,ML Ops Engineer,42,92272.5
+2024-05,Deep Learning Engineer,41,97190.0
+2024-05,Data Scientist,48,95673.0
+2024-05,Data Engineer,46,96319.0
+2024-05,Data Analyst,52,101669.5
+2024-05,Computer Vision Engineer,46,95254.0
+2024-05,Autonomous Systems Engineer,56,89943.5
+2024-05,AI Specialist,46,94189.5
+2024-05,AI Software Engineer,42,105107.5
+2024-05,AI Research Scientist,49,93642.0
+2024-05,AI Product Manager,55,105360.0
+2024-05,AI Consultant,41,106195.0
+2024-05,AI Architect,53,125104.0
+2024-06,Deep Learning Engineer,43,76148.0
+2024-06,Head of AI,59,91434.0
+2024-06,ML Ops Engineer,46,97951.5
+2024-06,Machine Learning Engineer,51,112437.0
+2024-06,Research Scientist,44,112943.0
+2024-06,NLP Engineer,54,94990.5
+2024-06,Principal Data Scientist,46,81016.5
+2024-06,Data Scientist,57,111306.0
+2024-06,Machine Learning Researcher,32,91786.5
+2024-06,Robotics Engineer,47,114225.0
+2024-06,Data Engineer,50,91425.0
+2024-06,Computer Vision Engineer,43,108379.0
+2024-06,AI Architect,45,85664.0
+2024-06,AI Consultant,44,94605.5
+2024-06,AI Product Manager,33,107056.0
+2024-06,Data Analyst,41,109982.0
+2024-06,AI Software Engineer,49,95990.0
+2024-06,AI Specialist,48,92569.5
+2024-06,Autonomous Systems Engineer,54,96714.5
+2024-06,AI Research Scientist,52,102020.5
+2024-07,Robotics Engineer,72,100711.5
+2024-07,Data Scientist,46,92874.5
+2024-07,Principal Data Scientist,43,118921.0
+2024-07,NLP Engineer,47,111618.0
+2024-07,Machine Learning Researcher,42,96294.5
+2024-07,Machine Learning Engineer,46,103056.5
+2024-07,ML Ops Engineer,51,107195.0
+2024-07,Head of AI,55,102801.0
+2024-07,Deep Learning Engineer,44,117772.5
+2024-07,Research Scientist,56,102792.0
+2024-07,Data Engineer,43,105969.0
+2024-07,Computer Vision Engineer,46,86099.0
+2024-07,Autonomous Systems Engineer,36,110646.0
+2024-07,AI Specialist,47,95499.0
+2024-07,AI Software Engineer,48,109213.0
+2024-07,AI Research Scientist,39,94837.0
+2024-07,AI Product Manager,46,102121.0
+2024-07,AI Consultant,46,110860.0
+2024-07,AI Architect,59,106780.0
+2024-07,Data Analyst,47,94867.0
+2024-08,Head of AI,54,111822.0
+2024-08,ML Ops Engineer,41,99055.0
+2024-08,Machine Learning Engineer,53,93866.0
+2024-08,Deep Learning Engineer,44,100538.5
+2024-08,NLP Engineer,51,94226.0
+2024-08,Principal Data Scientist,48,116913.0
+2024-08,Research Scientist,54,105279.5
+2024-08,Machine Learning Researcher,54,94025.0
+2024-08,Data Scientist,39,103037.0
+2024-08,Robotics Engineer,42,98494.5
+2024-08,Data Analyst,50,98467.0
+2024-08,AI Architect,50,85245.0
+2024-08,AI Consultant,45,117037.0
+2024-08,AI Product Manager,51,99427.0
+2024-08,AI Research Scientist,38,115742.5
+2024-08,Data Engineer,55,93965.0
+2024-08,AI Specialist,54,119697.0
+2024-08,Autonomous Systems Engineer,48,112303.5
+2024-08,Computer Vision Engineer,47,110644.0
+2024-08,AI Software Engineer,40,91168.5
+2024-09,Deep Learning Engineer,52,120877.0
+2024-09,Robotics Engineer,45,106961.0
+2024-09,Research Scientist,30,86169.5
+2024-09,Principal Data Scientist,34,100571.5
+2024-09,NLP Engineer,44,87379.5
+2024-09,Machine Learning Researcher,65,103835.0
+2024-09,Machine Learning Engineer,48,106496.0
+2024-09,ML Ops Engineer,33,118201.0
+2024-09,Head of AI,48,126783.0
+2024-09,Data Scientist,36,94967.5
+2024-09,Data Engineer,43,107305.0
+2024-09,Data Analyst,59,99196.0
+2024-09,Computer Vision Engineer,46,83283.0
+2024-09,Autonomous Systems Engineer,37,119110.0
+2024-09,AI Specialist,51,106671.0
+2024-09,AI Software Engineer,37,90249.0
+2024-09,AI Research Scientist,49,107718.0
+2024-09,AI Product Manager,42,94779.0
+2024-09,AI Consultant,54,107519.5
+2024-09,AI Architect,42,96439.5
+2024-10,Head of AI,47,93577.0
+2024-10,ML Ops Engineer,48,90525.5
+2024-10,Machine Learning Engineer,35,91947.0
+2024-10,Machine Learning Researcher,47,97484.0
+2024-10,Robotics Engineer,50,102340.0
+2024-10,Principal Data Scientist,46,99513.5
+2024-10,Research Scientist,40,94119.0
+2024-10,Deep Learning Engineer,40,107180.5
+2024-10,NLP Engineer,55,104789.0
+2024-10,Data Scientist,48,101550.5
+2024-10,Data Engineer,42,107587.5
+2024-10,Data Analyst,53,95591.0
+2024-10,Computer Vision Engineer,45,93327.0
+2024-10,Autonomous Systems Engineer,58,96290.5
+2024-10,AI Specialist,45,115841.0
+2024-10,AI Software Engineer,49,102557.0
+2024-10,AI Research Scientist,55,107924.0
+2024-10,AI Product Manager,53,87623.0
+2024-10,AI Consultant,42,94223.0
+2024-10,AI Architect,51,102466.0
+2024-11,Head of AI,47,107415.0
+2024-11,ML Ops Engineer,50,104143.0
+2024-11,Machine Learning Engineer,40,103511.5
+2024-11,Machine Learning Researcher,52,78493.5
+2024-11,Robotics Engineer,38,113337.5
+2024-11,Principal Data Scientist,43,88041.0
+2024-11,Research Scientist,44,120793.0
+2024-11,Deep Learning Engineer,45,107603.0
+2024-11,NLP Engineer,50,91912.0
+2024-11,Data Scientist,59,91885.0
+2024-11,Data Engineer,45,102931.0
+2024-11,Data Analyst,44,94253.5
+2024-11,AI Consultant,44,103053.0
+2024-11,AI Product Manager,43,93323.0
+2024-11,AI Research Scientist,44,95422.0
+2024-11,AI Architect,50,95480.5
+2024-11,AI Specialist,44,118931.5
+2024-11,Autonomous Systems Engineer,45,110385.0
+2024-11,Computer Vision Engineer,47,102177.0
+2024-11,AI Software Engineer,48,104065.5
+2024-12,Deep Learning Engineer,45,90293.0
+2024-12,Research Scientist,43,93448.0
+2024-12,Principal Data Scientist,34,83629.5
+2024-12,NLP Engineer,42,85198.5
+2024-12,Machine Learning Researcher,53,118132.0
+2024-12,Robotics Engineer,53,96023.0
+2024-12,ML Ops Engineer,59,83476.0
+2024-12,Head of AI,41,92452.0
+2024-12,Data Scientist,46,122199.5
+2024-12,Machine Learning Engineer,52,91017.0
+2024-12,Data Analyst,45,79394.0
+2024-12,AI Architect,52,99376.0
+2024-12,AI Consultant,39,104706.0
+2024-12,AI Product Manager,53,100197.0
+2024-12,AI Research Scientist,55,100577.0
+2024-12,Data Engineer,52,107672.5
+2024-12,AI Specialist,33,101868.0
+2024-12,Autonomous Systems Engineer,50,96501.0
+2024-12,Computer Vision Engineer,45,109716.0
+2024-12,AI Software Engineer,67,95405.0
+2025-01,Deep Learning Engineer,43,91135.0
+2025-01,Robotics Engineer,46,94101.0
+2025-01,Research Scientist,46,100317.5
+2025-01,Principal Data Scientist,46,121308.5
+2025-01,NLP Engineer,50,88172.0
+2025-01,Machine Learning Researcher,61,89872.0
+2025-01,Machine Learning Engineer,51,109449.0
+2025-01,ML Ops Engineer,56,97658.5
+2025-01,Head of AI,44,107882.0
+2025-01,Data Scientist,40,114331.0
+2025-01,Data Engineer,38,93863.0
+2025-01,Data Analyst,45,85957.0
+2025-01,AI Consultant,54,89975.5
+2025-01,AI Product Manager,43,118452.0
+2025-01,AI Research Scientist,55,102946.0
+2025-01,AI Architect,60,106592.5
+2025-01,AI Specialist,56,115134.5
+2025-01,Autonomous Systems Engineer,39,107304.0
+2025-01,Computer Vision Engineer,42,107477.0
+2025-01,AI Software Engineer,49,93331.0
+2025-02,Deep Learning Engineer,44,99990.0
+2025-02,Research Scientist,34,99788.5
+2025-02,Principal Data Scientist,62,92458.0
+2025-02,NLP Engineer,37,102462.0
+2025-02,Machine Learning Researcher,32,102262.5
+2025-02,Robotics Engineer,49,92941.0
+2025-02,ML Ops Engineer,44,108795.0
+2025-02,Head of AI,60,99864.0
+2025-02,Data Scientist,35,100193.0
+2025-02,Machine Learning Engineer,41,114654.0
+2025-02,Data Analyst,40,99701.5
+2025-02,Computer Vision Engineer,37,110164.0
+2025-02,Autonomous Systems Engineer,56,88230.0
+2025-02,AI Specialist,43,87871.0
+2025-02,AI Software Engineer,50,102353.0
+2025-02,AI Research Scientist,35,116182.0
+2025-02,AI Product Manager,27,90930.0
+2025-02,AI Consultant,41,118126.0
+2025-02,AI Architect,37,101107.0
+2025-02,Data Engineer,36,86126.5
+2025-03,Head of AI,26,83643.5
+2025-03,ML Ops Engineer,40,79620.5
+2025-03,Machine Learning Researcher,53,99556.0
+2025-03,Robotics Engineer,46,105722.5
+2025-03,Principal Data Scientist,47,91850.0
+2025-03,Research Scientist,55,87978.0
+2025-03,Deep Learning Engineer,44,88278.0
+2025-03,NLP Engineer,31,109202.0
+2025-03,Data Scientist,48,120019.5
+2025-03,Machine Learning Engineer,64,130664.0
+2025-03,Data Analyst,44,100465.0
+2025-03,Computer Vision Engineer,38,95190.0
+2025-03,Autonomous Systems Engineer,52,97632.5
+2025-03,AI Specialist,42,107039.0
+2025-03,AI Software Engineer,54,100497.0
+2025-03,AI Research Scientist,51,91687.0
+2025-03,AI Product Manager,52,96293.5
+2025-03,AI Consultant,36,95136.0
+2025-03,AI Architect,38,108334.5
+2025-03,Data Engineer,61,112129.0
+2025-04,Deep Learning Engineer,47,117572.0
+2025-04,Head of AI,45,133361.0
+2025-04,ML Ops Engineer,47,104041.0
+2025-04,Principal Data Scientist,48,111844.5
+2025-04,Machine Learning Researcher,68,93380.0
+2025-04,NLP Engineer,43,77022.0
+2025-04,Data Scientist,44,101158.0
+2025-04,Machine Learning Engineer,49,107128.0
+2025-04,Data Engineer,42,110688.0
+2025-04,AI Software Engineer,31,90606.0
+2025-04,Computer Vision Engineer,47,83109.0
+2025-04,Autonomous Systems Engineer,57,99939.0
+2025-04,AI Specialist,46,125753.0
+2025-04,AI Research Scientist,54,92860.5
+2025-04,AI Product Manager,43,120260.0
+2025-04,AI Consultant,54,106513.0
+2025-04,AI Architect,40,105509.5
+2025-04,Research Scientist,42,98853.5
+2025-04,Data Analyst,50,103161.5
+2025-04,Robotics Engineer,45,105559.0
