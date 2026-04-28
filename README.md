@@ -39,15 +39,3 @@ The questions were written from a CFO/HR perspective, not a candidate perspectiv
 
 ---
 
-## Files
-
-```
-├── analysis/
-│   ├── q1_skill_premium.py
-│   ├── q2_company_compensation.py
-│   └── q3_demand_vs_salary.py
-├── dashboard/
-│   └── AI_Market_2025.pbix
-└── data/
-    └── ai_job_market_2025.csv
-```
