@@ -27,10 +27,9 @@ df['quarter'] = df['posting_date'].dt.to_period('Q')
 
 df['month'] = df['posting_date'].dt.to_period('M')
 
-print("✅ Listo:", df.shape)
+print("done:", df.shape)
 print(df['quarter'].value_counts().sort_index())
 
-# ── BQ2: Salary + Benefits por company_size ──────────────────────────────────
 
 bq2 = df.groupby('company_size').agg(
     avg_salary    = ('salary_usd',    'mean'),
